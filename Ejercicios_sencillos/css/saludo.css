@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.contenedor{
+    margin: 0 auto;
+    text-align: left;
+    background: yellow;
+    font-size: 25px;
+}
